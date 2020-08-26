@@ -1,4 +1,4 @@
-#DJANGO shop-skeleton
+# DJANGO shop-skeleton
 
 This is the skeleton of a basic online shop application built with Django. It includes:
 
