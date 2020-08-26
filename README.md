@@ -15,3 +15,4 @@ This is the skeleton of a basic online shop application built with Django. It in
 - Django-parler to translate models and you used django-localflavor to validate localized form fields
 - Recommendation engine using Redis to recommend products that are usually purchased together
 
+![](scroller.mov)
