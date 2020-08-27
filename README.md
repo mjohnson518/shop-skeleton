@@ -17,6 +17,6 @@ This is the skeleton of a basic online shop application built with Django. It in
 
 <br>
 <p align="center">
-<img src="https://media.giphy.com/media/lrsB5w3GE1IYhxmo2B/giphy.gif" width="400" height="250"/>
+<img src="https://media.giphy.com/media/lrsB5w3GE1IYhxmo2B/giphy.gif" border: '1px solid black'/>
 </p>
 
