@@ -17,5 +17,5 @@ This is the skeleton of a basic online shop application built with Django. It in
 
 <br><br>
 
-![scroll](https://media.giphy.com/media/lrsB5w3GE1IYhxmo2B/giphy.gif =250x250)
+<img src="https://media.giphy.com/media/lrsB5w3GE1IYhxmo2B/giphy.gif" width="250" height="250" />
 
